@@ -1,9 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main /> should render the heading 1`] = `
-<div>
+<main
+  class="sc-Qotzb gJupNV"
+>
   <h1>
     React Boilerplate
   </h1>
-</div>
+</main>
 `;
